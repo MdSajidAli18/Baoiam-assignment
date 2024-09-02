@@ -18,9 +18,7 @@ Follow these steps to set up and run the project locally:
 
 ### 1. Clone the Repository
 
-
 git clone https://github.com/MdSajidAli18/Baoiam-assignment.git 
-
 
 ### 2. Navigate to the project directory
 cd product-listing
