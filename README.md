@@ -16,9 +16,8 @@ Responsive Design: Optimized for both desktop and mobile screens.
 
 Follow these steps to set up and run the project locally:
 
-1. Clone the Repository
+### 1. Clone the Repository
 
-```bash
 git clone https://github.com/MdSajidAli18/Baoiam-assignment.git 
 
 ### 2. Navigate to the project directory
@@ -29,3 +28,6 @@ npm install
 
 ### 4. Start the Development Server
 npm start
+
+
+```bash
