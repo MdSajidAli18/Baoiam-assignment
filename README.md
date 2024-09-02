@@ -23,15 +23,12 @@ git clone https://github.com/MdSajidAli18/Baoiam-assignment.git
 
 
 ### 2. Navigate to the project directory
-```bash
 cd product-listing
 
 ### 3. Install Dependencies
-```bash
 npm install
 
 ### 4. Start the Development Server
-```bash
 npm start
 
 
