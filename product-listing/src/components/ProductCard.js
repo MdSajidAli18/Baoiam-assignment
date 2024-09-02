@@ -2,7 +2,7 @@ import React from 'react';
 
 const ProductCard = ({ product }) => {
     return (
-        <div className="flex flex-col md:flex-row border p-4 rounded-lg hover:shadow-lg transition duration-200 bg-white cursor-pointer">
+        <div className="flex flex-col md:flex-row p-4 rounded-lg hover:shadow-lg transition duration-200 bg-white cursor-pointer">
 
             <img 
                 src={product.image} 
