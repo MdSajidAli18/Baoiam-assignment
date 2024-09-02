@@ -5,11 +5,16 @@ This is a React-based product listing application that includes search, filterin
 
 ## Features
 
-Search: Search products by name.
-Filter: Filter products by category.
-Sort: Sort products by price (low to high or high to low).
-Pagination: View products across multiple pages.
-Responsive Design: Optimized for both desktop and mobile screens.
+#### Search: 
+Search products by name.
+#### Filter:
+Filter products by category.
+#### Sort: 
+Sort products by price (low to high or high to low).
+#### Pagination: 
+View products across multiple pages.
+#### Responsive Design: 
+Optimized for both desktop and mobile screens.
 
 
 ## Getting Started
